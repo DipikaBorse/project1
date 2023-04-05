@@ -1,0 +1,14 @@
+1. Create a new Repo(public) in ur github Account 
+main ----------->B1:-Douments
+Code----------->B2:- 
+        ----------->B3:-
+2. Edit the file on github
+3.commit the changes and commit process
+4.save---->Commit
+5.check the commit process
+6. Edit the file again on github
+7.check the revision histroy
+8.now,you will file in in githubon rep.
+9.uplod files
+10.check updedted revision history
+11.
